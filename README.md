@@ -4,8 +4,11 @@
 
 A display of top 50 cryptocurrencies with their details and real-time prices.
 
-<img src='./public/coinlist.png'>
-## Languages: React, CSS
+<img src='./public/coinlist.png' />
+
+## Languages
+
+React, CSS
 
 ## Features
 
